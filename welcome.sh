@@ -1,1 +1,1 @@
-echo "Hello,Everyone.. welcome..to codingclub"
+echo "Welcome..to codingclub"
