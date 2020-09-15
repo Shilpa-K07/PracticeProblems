@@ -1,2 +1,0 @@
-
-echo "Happy Learning!!!"
